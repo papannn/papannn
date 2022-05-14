@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @papannn
+- 💻 I'm working at Tokopedia
 - 👀 I’m interested in C++, Android Development, Game Development
 - 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on Game Development
