@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @papannn
-- 💻 I'm working at Codashop
 - 👀 I’m interested in Backend Engineering
 
 <!---
